@@ -1,4 +1,16 @@
-#background {
+body {
+    margin: 0;
+}
+
+#Glaceon {
     height: 100vh;
+    background-image: url("../img/glaceon.webp");
     background-position: center;
+    background-size: cover;
+}
+
+.flex {
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
