@@ -4,7 +4,7 @@ body {
 
 #Glaceon {
     height: 100vh;
-    background-image: url("../img/glaceon.webp");
+    background-image: url("../img/Pokemon-Brilliant-Diamond-y-Shining-Pearl-Como-obtener-Glaceon.jpg");
     background-position: center;
     background-size: cover;
 }
@@ -29,11 +29,7 @@ iframe {
 
 img {
     width: 50%;
-}
-
-a {
-    text-decoration: none;
-    color: red;
+    text-align: center;
 }
 
 #footer {
